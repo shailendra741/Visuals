@@ -1,0 +1,33 @@
+.axis .domain {
+    display: none;
+  }
+  
+  
+  .grid path {
+    stroke: none;
+  }
+  .svgtitle{
+      font: 40px "Alfa Slab One", cursive;
+     stroke:#E38C16;
+     stroke-width: 1.5px;
+  
+     
+    }
+    .cir1{
+        stroke:gray;
+        stroke-width: 2px; 
+       fill:#0077FF;
+       border-radius:50%;
+       box-shadow: 10px -10px rgb(190, 70, 70);
+      
+    }
+    .svg_container{
+      background:wheat;
+      box-shadow: 10px 14px 10px 10px rgba(0, 0, 0, 0.2), -5px -5px 20px 10px rgba(0, 0, 0, 0.19);
+      position: relative;
+    }
+  
+  .grid line {
+    stroke: #E0E0E0;
+    shape-rendering: crispEdges;
+  }

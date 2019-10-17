@@ -1,0 +1,45 @@
+.tick text {
+    font-size: 8px;
+    fill:black;
+    
+}
+
+.tick line {
+    stroke: #C0C0BB;
+    opacity: 0.4;
+    display: none;
+    
+}
+
+.axis-label {
+       fill:black;
+}
+
+.axis_text {
+   color: black;
+    font-weight: bold;
+font-family: 'Bad Script', cursive;
+  
+  }
+
+
+.Yaxis-label {
+    font-size: 20px;
+    fill:black;
+    text-anchor: middle;
+   
+}
+
+
+.rectBar{    
+    box-shadow: 1px 1px 2px cadetblue, 0 0 25px blue, 0 0 5px darkblue;
+    
+
+} 
+.svgtitlegradientbarchart{
+    font: 40px "Alfa Slab One", cursive;
+   stroke:#49687A;
+   stroke-width: 1px;
+   
+  }
+ 
